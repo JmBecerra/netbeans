@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             echo "<h1>EJERCICIO SOBRE INCLUDE Y REQUIRED</h1>";
+            echo "<h2>Se realizaran pruebas con ficheros include.php y require.php </h2>";
             echo "<h2>Ahora vamos a incluir un fichero con include</h2>";
             include 'ficheros/fichero_include.php';
             
